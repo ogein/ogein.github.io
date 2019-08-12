@@ -1,11 +1,11 @@
 # Site settings
 author: Ogein Imoukhuede
-title: 
+title: OG Dev
 header-img: img/home-bg.png
 email: o.imoukhuede@aol.com
 copyright_name: Ogein Imoukhuede
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Spot For All Things Design/Dev Related
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ogein
